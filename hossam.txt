@@ -1,4 +1,2 @@
 Hello All
 Welcome to CI/CD course 
-
-log ('test')
