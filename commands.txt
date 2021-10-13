@@ -1,0 +1,21 @@
+Installation:
+sudo apt update
+
+sudo apt install git
+
+git --version
+------------------------------
+Configuring Git
+--------------
+git config --global user.name "Your Name"
+git config --global user.email "youremail@yourdomain.com"
+
+-------------
+GIT GUI 
+sudo apt-get install git-cola
+
+-------------
+https://github.blog/2020-12-15-token-authentication-requirements-for-git-operations/
+https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/creating-a-personal-access-token
+https://linuxhint.com/best_git_gui_clients_ubuntu/
+-------------
